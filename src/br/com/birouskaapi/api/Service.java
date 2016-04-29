@@ -18,9 +18,7 @@ import javax.ws.rs.core.Response;
 import com.google.gson.Gson;
 
 import br.com.birouskaapi.control.EstadoControl;
-import br.com.birouskaapi.control.UserControl;
 import br.com.birouskaapi.model.Estado;
-import br.com.birouskaapi.model.User;
 
 @Path("/service")
 public class Service {
